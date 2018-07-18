@@ -4,6 +4,14 @@ These are not official builds. This repo is just for testing, do not use!
 
 
 
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+
+...but if your going to ignore us and do it anyways here's some info that might be helpfull
+
+
+
+
 ### Windows
 
 Both of these are packages are signed with the following windows code signing cert.
@@ -15,7 +23,7 @@ MD5:    45:04:40:07:D7:FE:86:99:18:BA:8A:97:97:49:F0:54
 #### BraveBrowserDevSetup.exe
 A minimal download that bootstraps the latest available windows build, and will update automatically when new builds are available.
 
-### brave_installer-x64.exe
+#### brave_installer-x64.exe
 Stand alone installer for windows which has updates disabled by default since it depends on functionality in BraveBrowserDevSetup.exe (If you need to ensure updates are disabled in all cases, you'll want to pass the --disable_brave_extension flag to the Brave binary).
 
 
