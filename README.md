@@ -43,7 +43,7 @@ SHA1: `39:2F:0B:A6:5B:34:8B:1F:A2:FA:02:8A:A1:17:52:A0:1B:84:81:A5`
 
 MD5: `1F:A6:54:0A:B4:A3:5A:C9:3A:95:4D:80:5C:59:BB:B7`
 
-First version supporting updates on darwin is `50.8`
+First version supporting updates on darwin is `50.10`
 
 #### Brave-Browser-Dev.dmg
 This is the standalone installer and will enable updates in the background (not always obvious this is working currently but try navigating to chrome://chrome and giving it some time to download in the background).
